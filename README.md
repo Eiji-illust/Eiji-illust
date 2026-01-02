@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Eiji, an anime-styled digital illustrator based in Philippines
+
+I'm currently learning JS and and hopefully I'll get learn how to build my own website that showcase my Illustrations.
+
+You can reach me on IG: Eiji_illustrations
+
+Fun fact:
+  - I was born on Friday 13th
+  - I read light novels and manga
+  - Hobbies: Anime, Drawing, Reading
 <!--
 **Eiji-illust/Eiji-illust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
